@@ -1,0 +1,40 @@
+// Font style
+$f-ultra: 'Gotham-Ultra', sans-serif;
+$f-black: 'Gotham-Black', sans-serif;
+$f-bold: 'Gotham-Bold', sans-serif;
+$f-medium: 'Gotham-Medium', sans-serif;
+
+// Font size
+$fs-64: 64px;
+$fs-40: 40px;
+$fs-36: 36px;
+$fs-32: 32px;
+$fs-24: 24px;
+$fs-20: 20px;
+$fs-18: 18px;
+$fs-16: 16px;
+
+// Color
+$black-light-1: #131313;
+$black-light-2: #202020;
+
+$white: #FFF;
+$gray-1: #979797;
+$gray-2: #D9D9D9;
+
+$empty: #00000000;
+
+$red-1: #C40000;
+$red-2: #E74C3C;
+$red-black: #270000;
+
+$green: #2ECC71;
+
+$yellow: #F39C12;
+
+$black: #000;
+$black_20: rgba($black, 0.2);
+$black_50: rgba($black, 0.5);
+
+$bgc-linear: linear-gradient(90deg, $black 0%, $black-light-1 100%);
+$black-linear_0-100: linear-gradient(90deg, $empty 0%, $black 100%);

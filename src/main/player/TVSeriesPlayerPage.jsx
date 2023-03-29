@@ -21,7 +21,7 @@ class TvSeriesPlayerPage extends Component {
     }
 
     _setContent() {
-        getPlayerTVSeries(this.props.params.moveId).then(
+        getPlayerTVSeries(this.props.params.path).then(
             r => {
                 this.setState({data: r, isLoad: true})
             },

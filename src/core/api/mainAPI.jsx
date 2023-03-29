@@ -1,5 +1,5 @@
-// export const BASE_URL = 'http://dmakger.beget.tech';
-export const BASE_URL = 'http://127.0.0.1:8000';
+// export const BASE_URL = 'http://127.0.0.1:8000';
+export const BASE_URL = 'http://api.mts.augmeneco.ru/';
 export const BASE_URL_API = `${BASE_URL}/api`;
 export const HEADERS = {
     'Content-Type': 'application/json',

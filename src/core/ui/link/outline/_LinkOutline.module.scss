@@ -1,0 +1,11 @@
+@import "../../../scss/vars";
+
+.link {
+  font-family: $f-bold;
+  padding-bottom: 5px;
+  border-bottom: 2px solid $empty;
+
+  &:hover {
+    border-color: $red-1;
+  }
+}

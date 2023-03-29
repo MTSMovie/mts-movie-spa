@@ -1,0 +1,9 @@
+@import "../../../scss/vars";
+
+.link {
+  font-family: $f-bold;
+
+  &:hover {
+    color: $red-1;
+  }
+}
